@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "examples/example.rb",
+    "fibonacci-limited.gemspec",
     "lib/fibonacci_limited.rb",
     "test/helper.rb",
     "test/test_fibonacci_limited.rb"
