@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "fibonacci-limited"
   gem.homepage = "http://github.com/TimSpence/fibonacci-limited"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Returns the largest fibonacci number not greater than self}
+  gem.description = %Q{extends Integer with a method that returns the largest fibonacci number less than or equal to the value of Integer}
   gem.email = "yogi.wan.kenobi@gmail.com"
   gem.authors = ["Tim Spence"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,

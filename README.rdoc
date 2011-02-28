@@ -1,6 +1,6 @@
 = fibonacci-limited
 
-Description goes here.
+Outputs the greatest fibonacci number less than or equal to the value of an Integer.
 
 == Contributing to fibonacci-limited
  
